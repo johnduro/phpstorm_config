@@ -1,7 +1,7 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0833334" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
@@ -693,6 +693,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="1e2123" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="3f3f3f" />
+        <option name="BACKGROUND" value="ededed" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">

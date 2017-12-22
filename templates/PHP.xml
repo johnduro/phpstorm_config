@@ -9,4 +9,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cc" value="    public function __construct($END$)&#10;    {&#10;    }" description="construct" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

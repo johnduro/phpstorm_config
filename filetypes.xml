@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

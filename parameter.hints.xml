@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="XML" />
+      <blacklist language="PHP">
+        <added pattern="\Doctrine\DBAL\Migrations\AbstractMigration.addSql(sql,params,types)" />
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="YAML" />
+    </blacklists>
+  </component>
+</application>

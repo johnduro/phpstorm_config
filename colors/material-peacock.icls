@@ -1,5 +1,5 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -64,11 +64,6 @@
       <value>
         <option name="FOREGROUND" value="c57633" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="b0c95" />
       </value>
     </option>
     <option name="BNF_EXTERNAL">
@@ -516,7 +511,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="15181a" />
+        <option name="BACKGROUND" value="af3e26" />
         <option name="ERROR_STRIPE_COLOR" value="db3f25" />
       </value>
     </option>
@@ -534,7 +529,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="15181a" />
+        <option name="BACKGROUND" value="af3e26" />
         <option name="ERROR_STRIPE_COLOR" value="60999d" />
       </value>
     </option>

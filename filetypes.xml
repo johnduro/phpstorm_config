@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern="python" type="Bash" />
+      <mapping pattern="rmq-generate-conf" type="Bash" />
+      <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>

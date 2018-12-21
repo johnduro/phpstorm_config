@@ -5,6 +5,7 @@
       <mapping pattern="zenaton" type="Bash" />
       <mapping pattern="zenaton-listen" type="Bash" />
       <mapping pattern="rmq-generate-conf" type="Bash" />
+      <mapping pattern="phpstan-commit" type="Bash" />
       <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />

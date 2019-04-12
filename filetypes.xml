@@ -10,6 +10,7 @@
       <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

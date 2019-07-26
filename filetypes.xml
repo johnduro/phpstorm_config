@@ -1,18 +1,29 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern="php-fpm-cli" type="Bash" />
-      <mapping pattern="python" type="Bash" />
-      <mapping pattern="zenaton" type="Bash" />
-      <mapping pattern="zenaton-listen" type="Bash" />
-      <mapping pattern="rmq-generate-conf" type="Bash" />
       <mapping pattern="phpstan-commit" type="Bash" />
       <mapping pattern="pre-commit" type="Bash" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="temp" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping pattern="python" type="Bash" />
+      <mapping pattern="rmq-generate-conf" type="Bash" />
+      <mapping pattern="zenaton" type="Bash" />
+      <mapping pattern="zenaton-listen" type="Bash" />
     </extensionMap>
   </component>
 </application>

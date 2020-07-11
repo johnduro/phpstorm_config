@@ -1,7 +1,7 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
@@ -68,7 +68,7 @@
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="b0c95" />
+        <option name="FOREGROUND" value="3c87dd" />
       </value>
     </option>
     <option name="BNF_EXTERNAL">
@@ -516,7 +516,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="15181a" />
+        <option name="BACKGROUND" value="af3e26" />
         <option name="ERROR_STRIPE_COLOR" value="db3f25" />
       </value>
     </option>
@@ -534,7 +534,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="15181a" />
+        <option name="BACKGROUND" value="af3e26" />
         <option name="ERROR_STRIPE_COLOR" value="60999d" />
       </value>
     </option>
@@ -693,6 +693,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="1e2123" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="3f3f3f" />
+        <option name="BACKGROUND" value="ededed" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">

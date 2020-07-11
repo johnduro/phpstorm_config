@@ -1,0 +1,22 @@
+<templateSet group="PHP">
+  <template name="dd" value="\Symfony\Component\VarDumper\VarDumper::dump($END$);die(__METHOD__.':'.__LINE__.PHP_EOL);//todo delete" description="vardump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="\Symfony\Component\VarDumper\VarDumper::dump($END$);//todo delete" description="vardump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="    public function __construct($END$)&#10;    {&#10;    }" description="construct" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sp" value="\Symfony\Component\VarDumper\VarDumper::dump(\Shippeo\Stakeholder\DevTools\StakeholderPrinter::$END$);die(__METHOD__.':'.__LINE__.PHP_EOL);//todo delete" description="stakeholder printer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
